@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Saaria Zahid and I'm a Web Developer, from Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Saaria Zahid and I'm a Software Engineer, from Pakistan</h2>
 
 ###
 
