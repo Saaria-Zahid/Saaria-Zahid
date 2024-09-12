@@ -1,4 +1,4 @@
-<h2 align="align="center"">Hi 👋! My name is Saaria Zahid and I'm a Software Engineer, from Pakistan
+<h2 align="center">Hi 👋! My name is Saaria Zahid and I'm a Software Engineer, from Pakistan
 
   <a href="https://saaria-zahid.github.io/Portfolio/" target="_blank">
     <img src="https://static.wixstatic.com/media/a27d24_aab4b1abedb64829a86c6066b83cbda9~mv2.gif" height="80" alt="Read More" />
